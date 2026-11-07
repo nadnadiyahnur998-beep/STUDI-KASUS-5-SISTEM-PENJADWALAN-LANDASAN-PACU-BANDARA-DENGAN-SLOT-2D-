@@ -1,4 +1,5 @@
-# STUDI-KASUS-5-SISTEM-PENJADWALAN-LANDASAN-PACU-BANDARA-DENGAN-SLOT-2D-
+# Kelompok 5
+# STUDI KASUS 5 SISTEM PENJADWALAN LANDASAN PACU BANDARA DENGAN SLOT 2D
                          Disusun Oleh :
               1. Nadiyah Nur Hanifah (G1A026031)
               2. Filiyah Titi Vanila (G1A026045)
